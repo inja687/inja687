@@ -19,9 +19,6 @@
 - 🔭 I’m currently working on *[DC JANASEVA CLUB](https://github.com/injamamulhoque/DC-JANASEVA-CLUB)*  
 - 🌱 I’m currently learning *AI Tools, Machine Learning, Backend Development*  
 - 📫 Reach me at *injamamulhoque416@gmail.com*  
-
-<img src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif" alt="Programmer GIF" width="400" align="right" />
-
 ---
 
 ### 🌐 Connect With Me:
